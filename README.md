@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shivam15668
+- 👋 Hi, I’m Shivam Kumar
 - 👀 I’m interested in ...learning 
-- 🌱 I’m currently learning ...coding languages 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...software development and sciences 
+- 💞️ I’m looking to collaborate on ... MLOps and C++ development 
 - 📫 How to reach me ...@ shivamkumar15669@gmail.com
 
 <!---
